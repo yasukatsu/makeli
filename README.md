@@ -17,8 +17,8 @@
 ## Architecture
 
 ```
-makeli
-|- api   // backend
-|- view  // frontent
-+- doc   // document
+/makeli
+┝─ api   // backend
+┝─ view  // frontent
+└─ doc   // document
 ```
